@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/makhsitech/starting-react/static/css/main.073c9b0a.css",
-    "main.js": "/makhsitech/starting-react/static/js/main.9f7f1924.js",
+    "main.js": "/makhsitech/starting-react/static/js/main.6a551dd6.js",
     "static/js/787.294c790e.chunk.js": "/makhsitech/starting-react/static/js/787.294c790e.chunk.js",
     "static/media/logo.svg": "/makhsitech/starting-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/makhsitech/starting-react/index.html",
     "main.073c9b0a.css.map": "/makhsitech/starting-react/static/css/main.073c9b0a.css.map",
-    "main.9f7f1924.js.map": "/makhsitech/starting-react/static/js/main.9f7f1924.js.map",
+    "main.6a551dd6.js.map": "/makhsitech/starting-react/static/js/main.6a551dd6.js.map",
     "787.294c790e.chunk.js.map": "/makhsitech/starting-react/static/js/787.294c790e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9f7f1924.js"
+    "static/js/main.6a551dd6.js"
   ]
 }
